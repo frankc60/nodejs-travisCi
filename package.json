@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-travisci",
+  "version": "1.0.0",
+  "description": "get travis CI working with github",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frankc60/nodejs-travisCi.git"
+  },
+  "author": "frankc60",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frankc60/nodejs-travisCi/issues"
+  },
+  "homepage": "https://github.com/frankc60/nodejs-travisCi#readme",
+  "devDependencies": {
+    "jshint": "^2.6.0"
+  },
+  "scripts": {
+    "test": "jshint app.js"
+  }
+}
