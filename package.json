@@ -23,7 +23,6 @@
     "del":"*"
   },
   "scripts": {
-    "test": "jshint app.js",
-    "test2": "gulp"
+    "test": "jshint app.js"
   }
 }
