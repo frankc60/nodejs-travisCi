@@ -14,9 +14,16 @@
   },
   "homepage": "https://github.com/frankc60/nodejs-travisCi#readme",
   "devDependencies": {
-    "jshint": "^2.6.0"
+    "gulp": "^3.9.1",
+    "jshint": "^2.6.0",
+    "gulp-concat": "*",
+    "gulp-uglify": "*",
+    "gulp-imagemin": "*",
+    "gulp-sourcemaps": "*",
+    "del":"*"
   },
   "scripts": {
     "test": "jshint app.js"
+    "test2": "gulp"
   }
 }
