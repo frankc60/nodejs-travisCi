@@ -2,3 +2,7 @@
 
 # nodejs-travisCi
 get travis CI working with github
+
+## What I learnt
+* Using a Continious Improvement system - TravisCI.
+* Interfacing TravisCI with a NodeJS project in Github.
