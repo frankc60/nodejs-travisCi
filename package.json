@@ -20,9 +20,12 @@
     "gulp-uglify": "*",
     "gulp-imagemin": "*",
     "gulp-sourcemaps": "*",
-    "del":"*"
+    "del": "*"
   },
   "scripts": {
     "test": "jshint app.js"
+  },
+  "dependencies": {
+    "gulp-cli": "^2.0.1"
   }
 }
